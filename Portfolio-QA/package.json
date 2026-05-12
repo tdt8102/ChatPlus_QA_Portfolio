@@ -1,0 +1,12 @@
+{
+  "name": "ta-dang-thao-game-qa-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
